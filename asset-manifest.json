@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marutha_ls/static/css/main.78f5b51e.css",
+    "main.js": "/marutha_ls/static/js/main.f27e2d90.js",
+    "static/js/453.ae260665.chunk.js": "/marutha_ls/static/js/453.ae260665.chunk.js",
+    "index.html": "/marutha_ls/index.html",
+    "main.78f5b51e.css.map": "/marutha_ls/static/css/main.78f5b51e.css.map",
+    "main.f27e2d90.js.map": "/marutha_ls/static/js/main.f27e2d90.js.map",
+    "453.ae260665.chunk.js.map": "/marutha_ls/static/js/453.ae260665.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f5b51e.css",
+    "static/js/main.f27e2d90.js"
+  ]
+}
